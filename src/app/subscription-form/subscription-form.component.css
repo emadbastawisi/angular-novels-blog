@@ -1,0 +1,11 @@
+.card {
+    background-color: var(--secondary-color);
+    width: 1140;
+}
+input[type = text], input[type = email] {
+    width: 100%;
+}
+
+.sub-text {
+    width: 500px;
+}

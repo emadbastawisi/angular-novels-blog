@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "novel-blog-app",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
